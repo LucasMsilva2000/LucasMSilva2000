@@ -4,10 +4,6 @@
 
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Apaixonado+por+tecnologia+%F0%9F%9A%80;Buscando+vagas+de+Desenvolvedor+e+Machine+Learning;Passionate+about+technology+%F0%9F%9A%80;Looking+for+Developer+%26+Machine+Learning+roles" />
-</h3>
-
 ---
 
 ### 🇧🇷 Sobre mim
