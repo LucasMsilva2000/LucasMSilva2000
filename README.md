@@ -31,7 +31,7 @@ I'm passionate about technology and always learning something new. Currently loo
 ### 🤖 Machine Learning & Data Science
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy" />
 </div>
 
 ### 🧰 Ferramentas | Tools
